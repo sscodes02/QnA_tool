@@ -1,0 +1,17 @@
+---
+:id: 211776575
+:submitters:
+- :name: Ishu Rajput
+  :email: ee1221173@ee.iitd.ac.in
+- :name: Saumya Singh
+  :email: ee3221785@ee.iitd.ac.in
+- :name: Ankit Choudhary
+  :email: ee1221707@ee.iitd.ac.in
+- :name: Rohit Rajput
+  :email: ee1221699@ee.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-11-11 15:21:53.628995000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-11-11 07:21:53.628995000 Z
+:status: processed
